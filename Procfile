@@ -1,1 +1,1 @@
-web: gunicorn bmg-hacka.wsgi
+web: gunicorn bmg_hacka.wsgi
