@@ -1,0 +1,1 @@
+web: gunicorn beezuu_landing.wsgi
