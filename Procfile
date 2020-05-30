@@ -1,1 +1,1 @@
-web: gunicorn beezuu_landing.wsgi
+web: gunicorn bmg-hacka.wsgi
